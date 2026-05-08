@@ -1,8 +1,8 @@
-# TFT Set 17 Carry Classification
+# TFT Season 17 Tactics
 
 Source: https://lolchess.gg/champions/set17/three-cores
 
-LoLCHESS Set 17 Three Cores 기준으로 처음부터 노리고 들어가기 좋은 메인 딜러 후보를 `AD/AP`와 `공속/극딜` 성향으로 분류했다. 탱템 위주 유닛과 브루저형 딜러는 제외했다.
+LoLCHESS Set 17 Three Cores와 세트 17 유닛/시너지 데이터를 바탕으로 정리한 운영 메모다. 기본 방향은 탱커 3종 계열로 앞라인을 안정화하고, 딜러는 아이템과 2성 타이밍에 맞춰 갈아타는 것이다. 브루저형 딜러와 풀 시너지 운영은 현재 메타의 기본값이 아니라 조건부 후보로 따로 분리했다.
 
 ## Win Streak Tempo
 
